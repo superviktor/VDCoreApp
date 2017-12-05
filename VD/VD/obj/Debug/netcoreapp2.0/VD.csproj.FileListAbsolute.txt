@@ -1,0 +1,11 @@
+D:\VD\VDCoreApp\VD\VD\bin\Debug\netcoreapp2.0\VD.deps.json
+D:\VD\VDCoreApp\VD\VD\bin\Debug\netcoreapp2.0\VD.runtimeconfig.json
+D:\VD\VDCoreApp\VD\VD\bin\Debug\netcoreapp2.0\VD.runtimeconfig.dev.json
+D:\VD\VDCoreApp\VD\VD\bin\Debug\netcoreapp2.0\VD.dll
+D:\VD\VDCoreApp\VD\VD\bin\Debug\netcoreapp2.0\VD.pdb
+D:\VD\VDCoreApp\VD\VD\obj\Debug\netcoreapp2.0\VD.csprojResolveAssemblyReference.cache
+D:\VD\VDCoreApp\VD\VD\obj\Debug\netcoreapp2.0\VD.csproj.CoreCompileInputs.cache
+D:\VD\VDCoreApp\VD\VD\obj\Debug\netcoreapp2.0\VD.AssemblyInfoInputs.cache
+D:\VD\VDCoreApp\VD\VD\obj\Debug\netcoreapp2.0\VD.AssemblyInfo.cs
+D:\VD\VDCoreApp\VD\VD\obj\Debug\netcoreapp2.0\VD.dll
+D:\VD\VDCoreApp\VD\VD\obj\Debug\netcoreapp2.0\VD.pdb
