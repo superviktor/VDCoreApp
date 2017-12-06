@@ -1,0 +1,28 @@
+﻿@model IEnumerable<string>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<form asp-controller="Gallery" asp-action="Index" method="post"
+      enctype="multipart/form-data">
+    <input type="file" name="file" />
+    <input type="submit" value="Upload" />
+</form>
+<br><br><br>
+<table border="1">
+    <tr>
+        <td>Name</td>
+        <td>Image</td>
+        <td>link</td>
+        <td></td>
+    </tr>
+    @foreach (var img in Model){
+        <tr>
+            <td>@img.Substring(14)</td>
+            <td align="center"><img src="~/@img" height="100" /></td>
+            <td>@img</td>
+            <td><a href="/Gallery/Delete?path=@img">Delete</a></td>
+        </tr>
+    }
+</table>
+

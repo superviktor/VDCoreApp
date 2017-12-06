@@ -13127,11 +13127,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Programming\\VSProjects\\master\\VDCoreApp\\VD\\VD\\VD.csproj",
+      "projectUniqueName": "D:\\Programming\\VSProjects\\gallery\\VDCoreApp\\VD\\VD\\VD.csproj",
       "projectName": "VD",
-      "projectPath": "D:\\Programming\\VSProjects\\master\\VDCoreApp\\VD\\VD\\VD.csproj",
+      "projectPath": "D:\\Programming\\VSProjects\\gallery\\VDCoreApp\\VD\\VD\\VD.csproj",
       "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\VSProjects\\master\\VDCoreApp\\VD\\VD\\obj\\",
+      "outputPath": "D:\\Programming\\VSProjects\\gallery\\VDCoreApp\\VD\\VD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

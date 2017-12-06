@@ -20,3 +20,14 @@ D:\Programming\VSProjects\master\VDCoreApp\VD\VD\obj\Debug\netcoreapp2.0\VD.Asse
 D:\Programming\VSProjects\master\VDCoreApp\VD\VD\obj\Debug\netcoreapp2.0\VD.AssemblyInfo.cs
 D:\Programming\VSProjects\master\VDCoreApp\VD\VD\obj\Debug\netcoreapp2.0\VD.dll
 D:\Programming\VSProjects\master\VDCoreApp\VD\VD\obj\Debug\netcoreapp2.0\VD.pdb
+D:\Programming\VSProjects\gallery\VDCoreApp\VD\VD\bin\Debug\netcoreapp2.0\VD.deps.json
+D:\Programming\VSProjects\gallery\VDCoreApp\VD\VD\bin\Debug\netcoreapp2.0\VD.runtimeconfig.json
+D:\Programming\VSProjects\gallery\VDCoreApp\VD\VD\bin\Debug\netcoreapp2.0\VD.runtimeconfig.dev.json
+D:\Programming\VSProjects\gallery\VDCoreApp\VD\VD\bin\Debug\netcoreapp2.0\VD.dll
+D:\Programming\VSProjects\gallery\VDCoreApp\VD\VD\bin\Debug\netcoreapp2.0\VD.pdb
+D:\Programming\VSProjects\gallery\VDCoreApp\VD\VD\obj\Debug\netcoreapp2.0\VD.csprojResolveAssemblyReference.cache
+D:\Programming\VSProjects\gallery\VDCoreApp\VD\VD\obj\Debug\netcoreapp2.0\VD.csproj.CoreCompileInputs.cache
+D:\Programming\VSProjects\gallery\VDCoreApp\VD\VD\obj\Debug\netcoreapp2.0\VD.AssemblyInfoInputs.cache
+D:\Programming\VSProjects\gallery\VDCoreApp\VD\VD\obj\Debug\netcoreapp2.0\VD.AssemblyInfo.cs
+D:\Programming\VSProjects\gallery\VDCoreApp\VD\VD\obj\Debug\netcoreapp2.0\VD.dll
+D:\Programming\VSProjects\gallery\VDCoreApp\VD\VD\obj\Debug\netcoreapp2.0\VD.pdb
