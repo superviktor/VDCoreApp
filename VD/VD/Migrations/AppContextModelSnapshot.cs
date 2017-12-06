@@ -50,6 +50,24 @@ namespace VD.Migrations
                     b.ToTable("Users");
                 });
 
+            modelBuilder.Entity("VD.Models.BasicItm.Item", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd();
+
+                    b.Property<string>("ImageUrl");
+
+                    b.Property<string>("LongDescription");
+
+                    b.Property<string>("ShortDescription");
+
+                    b.Property<string>("Title");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Items");
+                });
+
             modelBuilder.Entity("VD.Models.Authorization.User", b =>
                 {
                     b.HasOne("VD.Models.Authorization.Role", "Role")

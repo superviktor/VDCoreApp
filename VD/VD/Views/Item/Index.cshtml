@@ -1,0 +1,17 @@
+﻿@using VD.Models.BasicItm
+@model IEnumerable<Item>
+@{
+    ViewData["Title"] = "Items";
+}
+
+<h2>Items</h2>
+@foreach (var item in Model)
+{
+    <div>
+        <h1>@item.Title</h1>
+        <img src="@item.ImageUrl" width="40" height="40" />
+    </div>
+}
+
+
+

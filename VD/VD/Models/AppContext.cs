@@ -1,9 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using VD.Models.Authorization;
+using VD.Models.BasicItm;
 
 namespace VD.Models
 {
@@ -11,6 +8,7 @@ namespace VD.Models
     {
         public DbSet<User> Users { get; set; }
         public DbSet<Role> Roles { get; set; }
+        public DbSet<Item> Items { get; set; }
         public AppContext(DbContextOptions<AppContext> options)
             : base(options)
         {
